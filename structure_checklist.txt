@@ -1,0 +1,9 @@
+CheckLists:
+1) Version/build
+2) Environment
+3) Test date
+4) Tester
+5) Test type (smoke, critical path, extended, regression)
+6) Checking (title/summary)
+7) Result
+8) ID
