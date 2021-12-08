@@ -1,0 +1,12 @@
+Bug-report:
+1) ID
+2) Title/Summary
+3) Step-to-reproduce
+4) Expected result
+5) Actual result
+6) Severity
+7) Priority
+8) Environment (Environment in which the bug is found)
+9) Version
+10) Reported by (who observed the bug)
+11) Assigned to (name of developer who assigned the bug)
